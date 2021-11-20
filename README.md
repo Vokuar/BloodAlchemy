@@ -1,6 +1,9 @@
+# Update
 uhh im new to github and slimefun plugin coding so bear with me
 imma attempt to update this as a learning project but if it all goes wrong i apoligize in advance
 hope to bring this to a minecraft near you at some point
+
+original readme kept below
 
 # BloodHarvest
 This addon is my entry to the 2021 addon jam. 
